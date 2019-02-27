@@ -260,7 +260,7 @@ and
 
 ---
 
-Thanks!
+Ask us for feedback!
 
 ### __@crgrieve__  *Carole Rennie Logan*
 
