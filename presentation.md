@@ -7,6 +7,12 @@
 
 ## How do you choose which talk you attend at a conference?
 
+### __(discuss in pairs)__
+
+---
+
+# The Talk Title
+
 ---
 
 __What's a better title?__
@@ -83,14 +89,179 @@ The mistakes I’ve made teaching bioethics and how you can learn from them
 
 ---
 
-# Five options
-
-* Promise benefits
-* Promise a story
-* Put a number in it
-* Provoke curiosity
-* Evoke concern
+## __Research__ your target conference
 
 ---
 
-## Research your target conference
+# Exercise Time!<br/>__Talk Titles__
+
+### (on your own)
+
+---
+
+## Write your talk title with each style
+
+* Promise benefits *(how to win friends)*
+* Promise a story *(how a)*
+* Put a number in it *(3 ways)*
+* Provoke curiosity *(The #1 way)*
+* Evoke concern *(The common mistakes)*
+
+---
+
+## Share your <br />favourite title
+
+### __(discuss with your table)__
+
+
+---
+
+# The Bio
+
+---
+
+## What makes a bio <br/>stand out?
+
+### __(discuss in pairs)__
+
+---
+
+## Why is a bio important?
+
+---
+
+## Well rounded view of the person
+
+* Current occupation
+* Past employers
+* Awards and accolades
+* Degrees and educational affiliations / recent projects
+* Interests and fun facts
+
+---
+
+## Usually 25-200 words
+
+
+### Written in Third person
+
+---
+
+Nina Freeman is a level designer at Fullbright in Portland, Oregon. She is working on their current game, Tacoma. 
+
+In her personal work, she is most often making vignette games based on her own life stories. She worked as a designer on IGF nominee “how do you Do It?” and IGF Student Honorable Mention “Ladylike.” She designed the recently released “Cibele,” a game about an online relationship created by Star Maid Games. 
+
+You can find her work at ninasays.so, and you can follow her on Twitter at @hentaiphd.
+
+---
+
+Nina Freeman is a programmer, a poet, and a real life mahou shoujo. She makes and writes about video games.
+
+---
+
+# Exercise Time!<br/>__Creating bios__
+
+### (in pairs)
+
+---
+
+## Create a Mind map with these questions
+
+* <X> is currently ...
+* Before that <X> was ...
+* What lights you up?
+* What’s the coolest accomplishment you have?
+* What are you a product of?
+* What’s important about you that’s not on your CV?
+
+---
+
+## Highlight the parts you'd like to use in your bio
+
+### __(on your own)__
+
+---
+
+# The Abstract
+
+---
+
+## How do you sell <br />a talk?
+
+### __(discuss in pairs)__
+
+---
+
+## What's expected
+
+#### https://www.papercall.io/talks/new
+
+---
+
+# Anatomy of a proposal
+
+* Context / Problem Statement
+
+and
+
+* Teaser / Solution
+
+---
+
+## Context / Problem Statement
+
+* Target Audience
+* The problem you are tackling and it's impact
+* Motivation (why care?)
+
+---
+
+## Teaser / Solution
+
+* Teaser about how to solve the problem
+* Outline of topics covered
+* What you'll learn
+
+---
+
+## Get feedback
+
+---
+
+# Exercise Time!<br/>__Creating your abstract__
+
+### (on your own)
+
+---
+
+## Part 1: Create two columns on an A4 page
+
+* Put headings for __Context__ and __Solution__
+* Write keywords for your talk under each one
+* Keywords can be ideas. e.g.
+
+  *'Pizza'*
+  *'history/future of Pizza'*
+  *'priming yeast'*
+
+---
+
+## Part 2: Turn the keywords into sentences
+
+* Aim for two paragraphs
+* Write from the perspective of your future audience __(You'll learn)__
+* Tip: Use a question
+
+---
+
+## Write three facts you’ve learned about making proposals
+
+### __(on your own)__
+
+---
+
+Thanks!
+
+### __@crgrieve__  *Carole Rennie Logan*
+
+### __@joe_jag__  *Joe Wright* joe@joejag.com
