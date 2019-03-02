@@ -25,10 +25,6 @@ New expense process – Manager update, February 2018
 
 ---
 
-## Why is a talk title important?
-
----
-
 # How to teach bioethics
 
 ---
@@ -74,6 +70,8 @@ How to teach bioethics
 *can become*
 
 The #1 strategy for teaching bioethics in the classroom
+
+New classroom research reveals the bioethics teaching methodology that gets the best results
 
 ---
 
@@ -186,7 +184,7 @@ Nina Freeman is a programmer, a poet, and a real life mahou shoujo. She makes an
 
 ---
 
-## How do you sell <br />a talk?
+## What's the purpose of an abstract?
 
 ### __(discuss in pairs)__
 
@@ -224,7 +222,7 @@ and
 
 ---
 
-## Get feedback
+## Get __feedback__
 
 ---
 
