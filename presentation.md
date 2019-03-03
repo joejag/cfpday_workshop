@@ -246,9 +246,15 @@ and
 
 ## Part 2: Turn the keywords into sentences
 
-* Aim for two paragraphs
+* Aim for between two or three paragraphs
 * Write from the perspective of your future audience __(You'll learn)__
 * Tip: Use a question
+
+---
+
+## Part 3: Ask for feedback
+
+* Share your abstract with someone else at your table
 
 ---
 
@@ -260,6 +266,12 @@ and
 
 Ask us for feedback!
 
-### __@crgrieve__  *Carole Rennie Logan*
+### __@crgrieve__  *Carole Rennie Logan* 
 
-### __@joe_jag__  *Joe Wright* joe@joejag.com
+### __@joe_jag__  *Joe Wright* 
+
+---
+
+* Talk Titles by __Olivia Mitchell__: <br /> https://speakingaboutpresenting.com/content/presentation-title/
+* Bios by __Catt Small__: <br /> https://cattsmall.com/advice/2016/10/03/become-public-speaker-5.html
+* Abstracts by __Lena Reinhard__: <br /> http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/#proposal-writing
