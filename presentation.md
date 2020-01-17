@@ -149,7 +149,7 @@ Nina Freeman is a level designer at Fullbright in Portland, Oregon. She is worki
 
 In her personal work, she is most often making vignette games based on her own life stories. She worked as a designer on IGF nominee “how do you Do It?” and IGF Student Honorable Mention “Ladylike.” She designed the recently released “Cibele,” a game about an online relationship created by Star Maid Games. 
 
-You can find her work at ninasays.so, and you can follow her on Twitter at @hentaiphd.
+You can find her work at ninasays.so, and you can follow her on Twitter at @ninasays.
 
 ---
 
@@ -247,8 +247,8 @@ and
 ## Part 2: Turn the keywords into sentences
 
 * Aim for between two or three paragraphs
-* Write from the perspective of your future audience __(You'll learn)__
-* Tip: Use a question
+* Write from the perspective of your future audience __(You'll learn...)__
+* Tip: Use a question to grab attention
 
 ---
 
