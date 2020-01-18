@@ -12,6 +12,8 @@
 ---
 
 # The Talk Title
+![](images/titles.jpg)
+
 
 ---
 
@@ -116,6 +118,8 @@ The mistakes I’ve made teaching bioethics and how you can learn from them
 
 # The Bio
 
+![](images/bio.jpg)
+
 ---
 
 ## What makes a bio <br/>stand out?
@@ -181,6 +185,8 @@ Nina Freeman is a programmer, a poet, and a real life mahou shoujo. She makes an
 ---
 
 # The Abstract
+![](images/cfp.jpg)
+
 
 ---
 
@@ -258,13 +264,7 @@ and
 
 ---
 
-## Write three facts you’ve learned about making proposals
-
-### __(on your own)__
-
----
-
-Ask us for feedback!
+__Give__ and __ask__ us for feedback!
 
 ### __@crgrieve__  *Carole Rennie Logan* 
 
